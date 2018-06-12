@@ -12,7 +12,7 @@ public class homework_3
     public homework_3()
     {
         Scanner sc = new Scanner(System.in);
-        System.out.print("put your input: ");
+        System.out.print("put your input (column): ");
         int input = sc.nextInt(); 
         
         System.out.println("3");

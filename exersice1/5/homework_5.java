@@ -12,6 +12,13 @@ public class homework_5
     {
        Scanner sc = new Scanner(System.in);
        System.out.print("put your input (row): ");
+       int input = sc.nextInt();
+       
+       System.out.println("5");
+       
+       for(int i=0;i<input;i++){
+           System.out.println("*-*-*-*-*-");
+       }
        
     }
 }
