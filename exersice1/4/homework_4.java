@@ -10,7 +10,7 @@ public class homework_4
 {
     public homework_4(){
         Scanner sc = new Scanner(System.in);
-        System.out.print("put your input: ");
+        System.out.print("put your input (row): ");
         int input = sc.nextInt(); 
         
         System.out.println("4");
