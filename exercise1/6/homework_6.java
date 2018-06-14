@@ -14,6 +14,15 @@ public class homework_6
         System.out.print("put your input (row): ");
         int input = sc.nextInt();
         
+        for(int i=0;i<input;i++){
+
+            if(i%2==0){
+               System.out.println("**********");
+           }
+            else{
+               System.out.println("__________"); 
+           }
+        }
         
     }
 }
