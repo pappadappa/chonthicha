@@ -1,61 +1,8 @@
-body {
-  margin: 0;
-  padding-left: 10%;
-  padding-right: 10%;
-
-}
-
-/* Style the header */
 .header {
-    background-color: #C6DEFF;
-    padding: 20px;
-    text-align: center;
-    min-width: 300px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
-/* Style the main */
-.main{
-	background-color: #d4e4fc;
-	background-repeat: repeat-y;
-    padding: 20px;
-    padding-bottom: 120px;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    min-width: 300px;
-    text-align: center;
-}
-.botton {
-	background-color: #C6DEFF;
-    padding: 20px;
-    text-align: center;
-    min-width: 300px;
-}
-.info {
-	text-align: left;	
-	min-width: 300px;
-	padding-left: 35%;
-	padding-right: 10%;
-}
-.customers{
-	padding-top: 12px;
-    padding-bottom: 12px;
-    text-align: left;
-    background-color: #4CAF50;
-    color: white;
-    min-width: 300px;
-}
-.table{
-	min-width: 300px;
-	padding-left: 10%;
-	padding-right: 10%;
-	margin-top: 50px;
-}
-table{
-	text-align: center;	
-	border-collapse: collapse;
-	width: 100%;
-}
-table, th, td {
-    border: 1px solid black;
-    height: 50px;
-    background-color: #FFFFFF;
+#BMI {
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
